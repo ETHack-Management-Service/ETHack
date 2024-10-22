@@ -19,7 +19,7 @@ ________________
 
 ### Integrations
 
-Unfortunately, secrets, must be kept secret, or hidden, so we will not fully open the code since this will ease too much the process. Anyone who is interested to coordinate and contribute, where adding a level or suggestion anything about the current build, you are more than welcome to reach out! 
+Unfortunately, secrets, must be kept secret, or hidden, so we will not fully open the code since this will ease too much the process. Anyone who is interested to coordinate or contribute, where adding a level or suggesting anything about the current build, you are more than welcome to reach out! 
 
 Here is a list of features we will work on:
 
