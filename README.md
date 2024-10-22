@@ -28,10 +28,15 @@ Here is a list of features we will work on:
 - Community live chat
 - Many levels, lot of fun
 
-*__Remember, this message will self.destruct(); in 5:00__*
-
 https://www.ethack.me
+_________________
+> [!CAUTION]
+> *__Remember, this message will self.destruct(); in 5:00__*
+
+
+
 
 _________________
-ETHack 2024, Ethical hacking __101__
+ETHack *__2024__* | Ethical Hacking *__101__*
+
 
